@@ -1,0 +1,392 @@
+Mechanics
+
+
+Train system uses currents, made out of soda cans or trash
+
+
+Use billboarding for 2d on 3d effect
+
+
+Language only uses basic characters as a default state
+
+
+Important words have their own glyphs and meanings 
+
+
+To start game need to find vowels, consonants etc but higher levels require other words and context
+
+
+System isnt actually spoken but written using ink, this is why octopus are scarce
+
+
+Dulsedale has no human technology all natural kelp city, language reflects rural accent no human loner words
+
+
+Driftwood city at top
+
+
+All music is different genres but is somewhat jazzy and random variations are always thrown in because of ocean diversity 
+General
+* More than 100% to complete but changes depending on what you choose to do
+* Money is sand dollars is alive
+* Basic fish more likely to be enemies
+* Parry mechanic is to use shield right before hit lands
+* No punishment for wanting to move on after dying (don't have to recover stuff) but rewards for retracing hard sections?
+* Different ways to get some items (eg if you stood a thief in one area collectable in shop in another area, otherwise thief has it)
+* Collectables are human items with notes that help translate
+* Learning hello opens interact button
+* Numbers learned through depth meter "fathoms"
+* Non enemy Characters will appear more as you learn more
+* Shops sell trinkets, lore, upgrades, temp upgrades, etc
+* Bubble platforming
+* Collectible human items with characters notes
+* Bombers notebook esc notes by character gives insight into lore and mc thoughts
+* Game takes place in Mediterranean of coast of Sicily or even Atlantic 
+* If tentacles are cut off, movement is slow but damage is higher
+
+
+Opening
+* Enter into center of map in submarine subway
+* Enter into gate of city but cant enter must go out into wild instead
+* Opening section to teach controls is path to subway and cutscene (wasteland abandoned path)
+* Conductor confused by octopus (“train denizens/conductor whisper what brought octopus out of cephalopod town”)
+* Asked to enter name your random name comes back later once you know what it means
+
+
+Unlockables
+* Heart System (Tentacle Armor)
+* ~5 items per area
+* Start with 4 Pieces
+* 4 additional pieces split into 3 parts each (12)
+* Venom Upgrades 5
+* 5 Combat Abilities (Trials)
+* 4 Traversal Upgrades (Area Keys) (4 from Dungeons)
+* Entrance Into City or Pirates Requires Language
+* 3 Attack Upgrades (Sword from Rays) (Shield from Puffins) (Projectile from Gultch)
+
+
+* 4 levels of language understanding
+   * Level 0 (0-9)
+   * Level 1 (10- 19)
+   * Level 2 (20-29)
+   * Level 3 (30-40) (Rare interactions)
+* NPC who can overwrite level based on a test
+* Can enter city immediately if level 2 or above, if level 3 can skip to trench
+Progression
+* Start in Meadow
+   * Can explore parts of meadow, kelp, and coral reef
+* Part of coral reef/Rocky Shores/ Pirate Cove blocked until language test
+* Unlocks all of top level (theoretically)
+* In Crustacean City, completing first (accessible) dungeon unlocks Air breathing 
+   * Unlocks dungeon 2 in meadow
+   * This unlocks tidepools, caves, and access to volcano / dungeon 3
+* Dungeon 2 or 3 will unlock the depths
+   * Depth key can be bypassed by showing you are a proper warrior (boss fight)
+   * (Hey you complete two dungeons you are strong enough to pass) (come back later for missed boss fight)
+* From depths you can get to ecological dead zone  if you can platform in dark, otherwise lights guide you towards biolum city / trench
+
+
+
+
+Visual
+* Map is monotone Pirate map looks like Character drew it himself ink
+* Title screen reflects area and depth
+Language
+* Enemies talk in separate language from cephalopod society
+* Enemies telegraph their attacks in this other script
+* Metroidvania isolation doesn't come from dead or empty planet but from lively one you can't understand 
+* Fathom also means to understand
+* Good way to hide lore
+* Map is there from start but unreadable so map unlocks are your notes which help with translation 
+* Similar to runestones
+* All ability unlocks are gated by temples that require language tests with knowledge of the language you can go to any area in any order
+* Only by learning language can you find out multiple sides of history otherwise you will only know what bad guy says at end
+* Bestiary can teach language
+* All items that are human have a unique text (not Latin alphabet kinda like star wars script)
+
+
+Map
+* No collectable map
+* Fill out as you go
+* Npcs can give you directions east west and depth
+* Map has ability to take notes leave markers and draw
+* Full map can be obtained but is useless without learning language
+* Octopus scholar npcs leave behind Rosetta stone type objects to translate
+
+
+Boss ideas
+* Each boss has a different type of music depending on area and theme
+* Moray eel (cowboy)
+* Hydra (cut one head off, 2 more grow)
+* Shark boss
+* Fish Skeleton
+* Polar bear
+* Friendly cuttlefish that turns on you
+* Jellyfish
+* orca
+* Leviathan
+* Siphonophore
+* Deadzone Protector (Robot Dolphin)
+* Octopus King
+* Octopus king uses similar moves, uses charms you don’t?
+* Octopus king theme linked to town theme and character theme
+
+
+
+
+Player
+Game Mechanics
+* More octopus like
+* Morph ball
+* Layer ability to squeeze through tight spaces
+* Double jump 
+* Ink
+* Poison
+* Main ability is for every heart of damage taken unleash venom that builds up 
+
+
+* Slide dash
+* Grapple hook
+* Unlock abilities and practices them in backstop flashbacks 
+* Turn invisible 
+* Maybe powered by jet propulsion (what real octopuses use to swim quickly)?
+* Camouflage (can turn invisible by blending into the background, but only if he stays still in one spot)
+* Poison risk reward
+* Powerful poison attack reduces max hearts for 5 minutes
+* Some moves do extra damage but hurt you more
+* Smash bros poison shield
+* Venom meter that grows with time
+* Shield hold as long as you want but it drains
+* Getting hit in shield takes big dip but parry avoids that dip
+* Vulnerable out of shield if it runs out but not if it is let go
+* Brief heal vulnerability
+* Unlockables: more hearts, more venom, faster venom, new abilities, more heals
+* Depth meter that tells you fathom amount
+* Self bioluminescence 
+* Water bubble air shield
+* Start with regular dash turns into omnidirectional
+* Shield is player making an arc of ink above their head takes a few frames to activate
+* Fast travel only in top half only unlocked after reaching trenches and having explored fully
+
+
+Player’s Purpose
+* Deal with nuke that wiped out the ancient civilization
+* Find other exiled octopus to get back home
+* Radiation mutations
+* Unlock memories in temples
+
+
+Regions
+Dungeons
+* Left behind dolphin temples to gods
+* Have sort of key to hidden area
+* Has mural with lore that unlocks some sort of mind palace dungeon
+* Unlocks ability/can leave w/o ability
+* Some temples hidden or repurposed
+* Ruins
+* First temple is pointed out (“oh you lost your memory? Try going to temple of whatever”)
+* End with elemental octopus bosses that represent personal struggles or follies
+* One in neon city remade into casino
+* Different abilities found in Dungeons (mind)
+* Dungeon where you can shift rooms like chess pieces 
+* Dungeon where you switch between underwater and not
+
+
+Civilizations
+* Civilized fish live in caves/alcoves with traditional controls
+* Region Ideas (every area you enter tells you how many fathoms deep it is)
+* Some stuff is underwater some in coves and out of water
+Areas
+Kelp Forest
+* (Dulsedale)
+* Falling kelp leaves
+Meadow
+* Ancient Civilization (extinct)
+* Giant dolphins
+* Wharfburgh
+Tide Pools
+* Underwater caves with air bubbles
+Coral Reef
+Rocky Shores
+* Crustacean Empire (oppressive military dictatorship, established power)
+* Religion
+* Catacombs under cathedral with human skeleton
+* Crashed plane cathedral
+* Wine bottle bar
+* Crustacean City (City of the Collective)
+* Announcements over loudspeaker In city in crab dialect
+* Crab dialect is becoming more distinct and seperating very distinct words
+* Boss is in a “projection room”
+* Shows a human recording of the end of world with italian/latin prayer
+* This prayer is chanted in background of boss fight by large crowd in stands
+* This is where dialect breaks off from
+* Becomes civ motto
+Puffin Village 
+* Nordic (neutral party)
+* (Søfgard)
+* Puffins, roughed up feathers
+* Puffins village is from nuclear winter
+* Forces make Ocean habitable where it shouldn't be
+* Outside ocean is cold and acidic from end of world but heat from doom and dragon make it habitable
+Volcano
+Sand Flats
+* Sand Flat Rays
+* Sayfstan
+Crystal Caves
+Pirate Cove 
+(The Dawn Tide) 
+Trenches
+* Something to de-acidify ocean
+* Trenches have marine snow
+* Not a ruined kingdom but a failing kingdom, still time to save or destroy (global warming?)
+* Then when released they light up trenches like stars
+* Dinoflagellate
+* When they die it creates "marine snow"
+* They stop ocean acidification so this could explanations why only the Depths are habitable against the climate change/nuclear apocalypse 
+* Trenches used to be scary w/ skeletons but only bc no marine snow food source
+* Trenches become awakened trenches or something 
+* When area changes you can toggle old map and new map by layering over each other
+* Areas change depending on which bosses you fight (territory changes)
+* thalassophobia/scary area (eerie quiet music with vast dark abyss)
+* Disoriented claustrophobic deep cave
+* Calming but eerie music
+* Trenches are initially dark scary hard to see but item reveals some sort of calm or light to make it beautiful luminescent
+* Trenches are not evil just dark
+Bioluminescent City 
+* Novus Lumen
+* Neighboring town is vegas like bioluminescent city run by mafia
+* Neighboring city very techy biolum city highlights themes of new vs old and religious vs science
+* The power from vents in western town is also used to power city, conflict over who has right to use it
+* Biolum city uses vents tio contain bioluminescent whale to power city and make money
+* Must release plankton to get to temple and progress, this lights up the whole trenches letting plants grow and changing vibe, makes biolum city into gray monotone urban hell, gulch into habitable place
+Ocean Vents
+* Gulch town lit by orange lamp posts
+* Wake gulch
+* Vents are western mining town cowboy
+Ecological Dead Zone
+* Ecological deadzone is a front put up by dolphins to hide research facility
+* Lovecraftian monster or smn outside guardian it is dolphin made robot
+* Reason all temples are so in depth is bc dolphins aren't actually like greeks or religious just advanced scientists and technologists
+* Doom area is actually very sterile bright etc
+* USS Fathom Nuclear Submarine 
+
+
+Lore
+General
+* Notebook contains maps and lore, met characters, and enemy encyclopedia
+* Lore found in world is contradictory 
+* Really life archeological Cypher for lore
+* Choices affect outcomes 
+* Have to go through every temple to get lore and keys for the research facility
+* Talks about why it's been hidden away and face boss/ area to get deeper
+* Final boss (some type of robo dolphin) is suddenly killed by the octo king ….
+* Background of game always has octopi doing things possible to see octo king has been following you and know twist ahead of time
+Themes
+* Central themes are about oceans vastness and mystery different camps try to solve lore and have explanations, cult of the fallen, dolphin and octopus science
+* Shown in gameplay of different regions (puffins utilize heat, crustaceans control it, rays revere it, ultimately the heat is a creature that's being subjected)
+* In volcano, free the dragon restoring its majesty and unknowability
+* Npc who is a sort of hermit/crazy speaks about ‘old gods’ as the nature of the ocean themselves
+* Theme of player not really being in control
+* Only way to resolve all conflicts is to restore nature and return harmony and inner peace
+* Draw some from shinto and buddhist ideals and imagery
+* Really want to utilize idea of ocean as deep mysterious and unknowable and how there is fear but approach from a calm somber place vs horror
+Forces of Nature
+* Each of the three primal creatures have a musical theme that separate are haunting or disorganized but when all 3 are combined with wild theme create harmony
+* Verite morte forze
+* The universe seeks balance, and the 3 beings take various pure forms
+* Manifestations of nature
+* 3 Universal facts of nature: Knowledge, Power, Life
+* These creatures are inherently just creatures a part of the vast ecosystem
+* Emphasize more spiritual aspect of nature, the ocean itself is an ecosystem living it is the actual 
+* True ending is caused by you freeing the other 2 forces of nature
+   * Then you free the doom, because you know that it can create life
+   * Maybe “communicate” in some way (not talking) with the doom
+* 3 primal beings plankton, dragon, doom, representing power, knowledge, and life respectively are all part of ecosystem that gives freely but are chained for various reasons, sects of ocean seek to control the ocean, restrain death, exploit resources/power, and suppress knowledge
+* Most important is to embrace nature not understand and control it, there is no ‘right’ lore answer and there never will be
+* What  created these three beings is irrelevant and has hints but never spelled out in game up to player interpretation
+* These are all of the major civs of the ocean and eachs’ folly is a gambit to control the ocean and know the unknowable
+* Player realizes that they must set free 3 creatures and restore ocean to ecosystem, nature has a way of healing when in harmony 
+Plankton (Power)
+* Biolum Plankton = Control/Freedom
+* Mining City = Freedom
+* Mob Bioluminescent City = Control
+* Power of plankton which was freely given is controlled by city 
+Dragon (Knowledge)
+* Sea Dragon = Mystery/Knowledge
+* Knowledge of what makes heat is either suppressed (crabs) (conflicts with cult of fallen), ignored (puffins), or mythicized (rays)
+Doom (Life)
+   * Doom = Death/Life
+   * Cycle of life and death of doom is feared by and ‘suppressed’ dolphins and set to be controlled by octopi 
+   * It lashes out because it is contained, and the only power that it exude comes in violent bursts that escape the pressure
+   * The doom is afraid, but not angry
+   * Need to set it free to allow it to express itself freely and safely
+   * Every death by old age is caused by doom passive radiation
+   * But now that it's sealed, passive radiation is much, so fish live longer, but now it comes out in bigger, more deadly bursts
+   * The last huuuuge burst killed the dolphins
+   * There's another due, and the octoking wants to aim it to kill people
+   * Because nature is designed to replace life at a low rate, due to low death rate, but it is not prepared to handle an extinction level event because then there would be no life left to replace it
+   * Doom creates consciousness 
+   * The gift of life is to be conscious 
+   * Death is the destruction of that consciousness 
+   * Doom is a nuke with psychic powers
+   * Doom has green root/tendrils in the ground
+   * It is contained in a quarantine zone
+   * Bad ending kill octoking and seal doom
+   * Doom IS living just one of the primal forces of the ecosystem
+   * Doom is radiation creature thing that is feared but the same radiation is what gives the fish life, death and life are inherently linked
+* 
+
+Religions
+* Catholic crustaceans
+   * Human worship / lost items
+   * Sea glass cathedral
+   * Hermit crabs (potentially human items)
+   * Shell reminds them of humility
+   * Gallows = beer six pack rings
+   * Razor blade guillotine
+   * Path of the fallen
+   * Glory to the fallen
+   * Throw away your shells and embrace the fallen
+* Creepy religion in the dark (doll face hermit crabs)
+
+
+Doom Lore
+* No longer super keen on the doom/ corrupted enemies (been done before)
+* Dolphin capital city is location of the doom
+* Dolphins wiped out by the doom but seal radiation off even though it is too late for them
+* Maybe implied humans made the nuke but actually made or discovered by dolphins
+* Octopus king lets out radiation to restore old times of peace pre octo genocide
+* Really does it to get revenge on crustaceans
+* Dolphins had kept peace and protected octopi but their demise set forward rise of crustaceans and followers of fallen
+* Octopus king claims to be at nuke in order to prevent what he saw as the warning signs of the end of dolphin civilization but in fact is the cause, always knew
+Octopus Lore
+* King of octopuses is a very old giant pacific octopus that is absurdly powerful (people see him as a wizard, but he is actually just an extremely smart scientist that can expertly bend reality to his will using science)
+* You weren't banished, just sent to look for final boss
+* Other nations don’t attack octopus nation because if you are smart enough to find the secret location of octopus society, you know that invading the octopus king would incite his wrath and lead to your death
+* When the king was a child (very long time ago) octopuses were an oppressed minority and seen as barely people, treated horribly 
+* His mother gets murdered by a non-octopus and no justice comes because they don’t matter
+* He tries to bury his grief by gaining scientific knowledge, studies as much as possible with the few resources he has
+* He learns some science and becomes more powerful
+* When he gets older he decides to escape with all the other octopuses to found an independent society in a secret location
+* (This was several generations before the start of the game so most people aren’t racist towards octopuses anymore when you are playing)
+* Octopus society is based on knowledge and science instead of war
+* This will allow octopuses to leave hiding and be free from oppression (society has stopped being racist towards them, but the king doesn’t know this because he never interacted with non-octopuses again after he originally left)
+* He doesn’t just attack them outright because even though he is powerful, he could not face the might of the crustacean army alone, and he doesn’t want to risk any octopus lives in conquest
+* He researches the dolphin society and learns a lot about them and their technology and how they were wiped out for unknown reasons
+* He suspects that the doom is responsible for their demise, so he goes to explore the ruins of the dolphin society to try to find the source of the doom
+* Eventually he finds the nuke in the bottom of the dolphin society ruins and determines it to be the doom source he was looking for
+* He deduces that if he melts it using high powered lasers, he can release the great energy stored within to immediately wipe out all non-octopuses
+* He doesn’t deduce that it is a bomb, and that melting it would result in it detonating and wiping out the entire undersea world, including octopus society
+* Throughout the course of the game, the player has interacted with the people of the society that the king abandoned so long ago, and has met many good and friendly non-octopuses on their journey
+* They know that if the king succeeds in his plan, millions of innocent lives will be lost (maybe they also learn that the bomb will explode instead of just releasing the doom, but maybe that fact is implied but no one in game knows it)
+* You must put a stop to his plan in order to save the lives of all the friends you made along your journey
+* The final boss of the game is the king of the octopuses, the most powerful single being in the entire undersea world (you either kill him or you knock some sense into him and teach him that he doesn’t need to be racist anymore)
+* Maybe the bad ending is where you kill him, and the good ending is where you find some sort of upgrade (like a cure for the Doom) that allows you to redeem him and safely destroy the source of the Doom once and for all
+* He makes the only rule no violence against other octopuses because he doesn’t want innocent octopuses to die like his mother did (it’s okay to hurt non-octopuses though, but that doesn’t really matter because most octopuses will never leave octopus society and never meet a non-octopus)
+* Long Tentacle of the Law
+* The king hates all non-octopuses because of how their kind treated his
+* The king sees that the doom is ravaging the societies of non-octopuses, and thinks he can use it to his advantage 
+* If he can find the source of the doom, he can use it as a weapon against the other races and exterminate them before they become advanced enough to find where the octopuses are hidden
+* He is blinded by his lust for vengeance
+* Octopus king anti precursor human religion bc racism so he stays out to prove they were merely foolish humans not gods finds evidence left behind and science and knew whole time what doom was
+* Knows something about deeper lore about why humans tried to use nuke in first place, only united octopus without the plague of other fish can stop what's coming

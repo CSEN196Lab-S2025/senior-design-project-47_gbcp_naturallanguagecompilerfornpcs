@@ -1,0 +1,17 @@
+rules should have example languages given for report
+spacCy
+spacy wordnet
+lemmas give root of word
+synsets give synonyms
+for next: implement synonyms and verb conjugation
+game skeleton
+
+
+1. Take a block of text and find 100 most common hypernyms
+2. Edit translator part to look in the dictionary for that word, if it can't find that word, keep looking at hypernyms 4 levels up until we find it.
+
+
+For mostCommon.py
+	print the original word for each synonym to test
+Use mostCommon.py to translate words
+Think about grammar

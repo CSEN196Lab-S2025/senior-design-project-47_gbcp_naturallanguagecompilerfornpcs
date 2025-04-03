@@ -1,0 +1,3 @@
+Rules:
+1. "wi" suffix negates
+2. "a" prefix pluralizes, if it starts with an "a" already use "y" prefix instead
