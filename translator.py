@@ -55,14 +55,14 @@ dict1 = {
 dict2 = {
     "no": "wi",
     "region": "fayon",
-    "cave": "rodowne",
+    "cavern": "rodowne",
     "darkness": "ko",
 }
 
 dict3 = {
     "depth": "kora",
     "ground": "tatak",
-    "unknown": "banan",
+    "know": "banan",
 }
 
 dict4 = {
